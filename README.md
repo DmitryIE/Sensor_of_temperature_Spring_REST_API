@@ -1,4 +1,4 @@
-# Учебный проект "REST API сервис для метеорологического датчика"
+# Проект "REST API сервис для метеорологического датчика"
 
 (стек применяемых технологий: *Spring Framework, Spring REST, Spring Boot, Spring Data JPA, PostgreSQL, Hibernate,
 XChar*)
